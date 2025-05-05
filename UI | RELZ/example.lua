@@ -1,4 +1,4 @@
-local Update = (loadstring(Game:HttpGet("https://raw.githubusercontent.com/AnhDzaiScript/GiaoDien/refs/heads/main/UITuanAnhIOS.lua")))();
+local Update = (loadstring(Game:HttpGet("https://raw.githubusercontent.com/NhatMinhVNQ/WSJ_LIBARY/refs/heads/main/UI%20%7C%20RELZ/UiRelz.lua")))();
 
 local Library = Update:Window({
 	SubTitle = "NM | UI",
